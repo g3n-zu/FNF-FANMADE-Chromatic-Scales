@@ -9,6 +9,7 @@ A place where you can get all the chromatic scales I make!!
 ***Note : If you plan on using any of these you must credit ExtendedCentral, KawaiSprite and the Creator that made the Original Mod.
 The reasons you need to credit them are below.***
 
+
 ExtendedCentral - Made the Custom Scales
 
 KawaiSprite - Made the Original music for FNF
