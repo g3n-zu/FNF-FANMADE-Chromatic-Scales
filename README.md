@@ -18,7 +18,7 @@ Original Creator of them Mod - They made the character and Original voice
 
 Credits (Mod Uploaders)
 ---------------------
-Bob - AmorAltra
+Bob (Bob and Bosip) - AmorAltra
 
 Garcello - Atsuover
 
@@ -47,3 +47,13 @@ Nene - NEONVORE
 Cheeky - Lexicord
 
 Ron - wildythomas
+
+Bob (VS Bob) - wildythomas
+
+CJ - TheMaskedChris
+
+Ruv - kuroao_anomal
+
+Sarventie - kuroao_anomal
+
+Selever - kuroao_anomal
