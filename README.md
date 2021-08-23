@@ -57,3 +57,11 @@ Ruv - kuroao_anomal
 Sarventie - kuroao_anomal
 
 Selever - kuroao_anomal
+
+Taki - isophoro
+
+Ace - Kamex
+
+Rebecca - Rebecca_Doodles
+
+Bosip - AmorAltra
