@@ -1,6 +1,6 @@
 # FNF-FANMADE-Chromatic-Scales
 
-*Welcome! This is the place where you can find every single custom voice scale I made!*
+*Welcome! This is the place where you can find every single custom voice scale I made (and the official ones)!*
 ---------------------------------
 
 A place where you can get all the chromatic scales I make!!
