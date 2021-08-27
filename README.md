@@ -6,6 +6,10 @@
 A place where you can get all the chromatic scales I make!!
 
 
+***Attention!! I have Uploaded/Updated Chromatics to now Auto Slice! yay! Sadly the files are too big for github so downlaod them here! [The Auto-Sliced Chromatic Scales Scales!](https://drive.google.com/drive/folders/1mMA_tW4JHBUFUCTHr_I6kvlyUUAcD32s?usp=sharing)***
+
+---------------------------------
+
 ***Note : If you plan on using any of these you must credit ExtendedCentral, KawaiSprite and the Creator that made the Original Mod.
 The reasons you need to credit them are below.***
 
